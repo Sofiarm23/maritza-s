@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\Users\Sofia\Desktop\TAREAAAA\MARITZA'S\maritza-s\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Users\Sofia\Desktop\TAREAAAA\MARITZA'S\maritza-s\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Users\Sofia\Desktop\TAREAAAA\MARITZA'S\maritza-s\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -36,3 +37,42 @@ D:\Users\Sofia\Desktop\TAREAAAA\MARITZA'S\maritza-s\obj\Debug\netcoreapp3.1\mari
 D:\Users\Sofia\Desktop\TAREAAAA\MARITZA'S\maritza-s\obj\Debug\netcoreapp3.1\maritza-s.pdb
 D:\Users\Sofia\Desktop\TAREAAAA\MARITZA'S\maritza-s\obj\Debug\netcoreapp3.1\maritza-s.genruntimeconfig.cache
 D:\Users\Sofia\Desktop\TAREAAAA\MARITZA'S\maritza-s\obj\Debug\netcoreapp3.1\maritza-s.csproj.CopyComplete
+=======
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\bin\Debug\netcoreapp3.1\maritza-s.exe
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\bin\Debug\netcoreapp3.1\maritza-s.deps.json
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\bin\Debug\netcoreapp3.1\maritza-s.runtimeconfig.json
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\bin\Debug\netcoreapp3.1\maritza-s.runtimeconfig.dev.json
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\bin\Debug\netcoreapp3.1\maritza-s.dll
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\bin\Debug\netcoreapp3.1\maritza-s.pdb
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\bin\Debug\netcoreapp3.1\maritza-s.Views.dll
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\bin\Debug\netcoreapp3.1\maritza-s.Views.pdb
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\maritza-s.csprojAssemblyReference.cache
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\maritza-s.AssemblyInfoInputs.cache
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\maritza-s.AssemblyInfo.cs
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\maritza-s.csproj.CoreCompileInputs.cache
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\maritza-s.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\maritza-s.RazorAssemblyInfo.cache
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\maritza-s.RazorAssemblyInfo.cs
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\maritza-s.TagHelpers.input.cache
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\maritza-s.TagHelpers.output.cache
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\maritza-s.RazorCoreGenerate.cache
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\maritza-s.RazorTargetAssemblyInfo.cache
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\maritza-s.RazorTargetAssemblyInfo.cs
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\maritza-s.Views.pdb
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\staticwebassets\maritza-s.StaticWebAssets.Manifest.cache
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\staticwebassets\maritza-s.StaticWebAssets.xml
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\maritza-s.dll
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\maritza-s.pdb
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\maritza-s.genruntimeconfig.cache
+D:\Users\Paolo Cueva\Desktop\WEB SOFIA\maritza-s\obj\Debug\netcoreapp3.1\maritza-s.csproj.CopyComplete
+>>>>>>> 2c328c51ff4978521f1a77e365a4a360f492f86e

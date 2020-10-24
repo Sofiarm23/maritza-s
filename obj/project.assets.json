@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Sofia\\.nuget\\packages\\": {}
+    "C:\\Users\\Paolo Cueva\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Sofia\\Desktop\\TAREAAAA\\MARITZA'S\\maritza-s\\maritza-s.csproj",
+      "projectUniqueName": "D:\\Users\\Paolo Cueva\\Desktop\\WEB SOFIA\\maritza-s\\maritza-s.csproj",
       "projectName": "maritza-s",
-      "projectPath": "D:\\Users\\Sofia\\Desktop\\TAREAAAA\\MARITZA'S\\maritza-s\\maritza-s.csproj",
-      "packagesPath": "C:\\Users\\Sofia\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Sofia\\Desktop\\TAREAAAA\\MARITZA'S\\maritza-s\\obj\\",
+      "projectPath": "D:\\Users\\Paolo Cueva\\Desktop\\WEB SOFIA\\maritza-s\\maritza-s.csproj",
+      "packagesPath": "C:\\Users\\Paolo Cueva\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\Paolo Cueva\\Desktop\\WEB SOFIA\\maritza-s\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sofia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Paolo Cueva\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
