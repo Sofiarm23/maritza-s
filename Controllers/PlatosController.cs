@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -9,16 +9,16 @@ using maritza_s.Models;
 
 namespace maritza_s.Controllers
 {
-    public class HomeController : Controller
+    public class PlatosController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<PlatosController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public PlatosController(ILogger<PlatosController> logger)
         {
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Platos()
         {
             return View();
         }
